@@ -1,0 +1,10 @@
+label,value,r,g,b,url
+hermetic,15,0,0,0,key_htmls/hermetic.html
+masonic,12,67,0,162,key_htmls/masonic.html
+mithraic,9,0,120,221,key_htmls/mithraic.html
+esoteric,8,0,170,152,key_htmls/esoteric.html
+cabala,1,0,188,0,key_htmls/cabala.html
+tarot,1,103,255,0,key_htmls/tarot.html
+historical,1,255,201,0,key_htmls/historical.html
+alchemic,1,236,0,0,key_htmls/alchemic.html
+islam,1,204,204,204,key_htmls/islam.html
